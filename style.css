@@ -1,0 +1,13 @@
+body
+{
+    text-align: center;
+}
+
+#changeMe
+{
+    width: 400px;
+    min-height: 400px;
+    margin: 20px auto;
+    background: red;
+
+}
